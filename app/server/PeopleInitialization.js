@@ -7,3 +7,5 @@ if (people.find().count() === 0) {
   people.insert({ first: 'Katie', last: 'Kai', age: 25, city: 'Palo Alto' });
   people.insert({ first: 'Doris', last: 'Johnson', age: 93, city: 'Naples' });
 }
+people.insert({ first: "Dog", last: "Koa", age:11, city: "Pearl City" });
+//people.insert({ animal: "Dog", name: "Koa", city: "Pearl City" });
